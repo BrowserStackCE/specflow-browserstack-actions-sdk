@@ -1,1 +1,1 @@
-# specflow-browserstack-actions-sdk
+# browserstack-specflow-sdk

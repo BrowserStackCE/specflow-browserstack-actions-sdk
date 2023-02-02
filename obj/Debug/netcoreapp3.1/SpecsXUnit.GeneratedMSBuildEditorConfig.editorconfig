@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SpecsXUnit
+build_property.ProjectDir = /Users/shaikhalid/Documents/BrowserStack/Demos/sdk/specflow/browserstack-specflow-sdk/
