@@ -1,20 +1,34 @@
-﻿{
+﻿//{
+//  "selenium": {
+//    "defaultTimeout": 60,
+//    "pollingInterval": 5,
+//    "browser": "edge",
+//    "capabilities": {
+
+//      "os": "Windows",
+//      "os_version": "10",
+//      "resolution": "1920x1080",
+//      "build": "Examples"
+//    },
+//    "browserstack": {
+//      "url": "https://princetonbaretto_7D2Tbt:WpeGdDCXPrVJ16YUqsHW@hub-cloud.browserstack.com/wd/hub/"
+//      //"localcapabilities": {
+//      //  "proxyHost": "127.0.0.1",
+//      //  "proxyPort": "8000"
+//      //}
+//    }
+//  }
+//}
+
+{
   "selenium": {
     "defaultTimeout": 60,
     "pollingInterval": 5,
-    "browser": "chrome",
     "capabilities": {
-      "device": "Google Pixel 6",
-      "os_version": "12",
-      "build": "Examples"
     },
     "browserstack": {
-      "url": "https://khalidshaikh_Cc8Pao:QqmphGzp7RziVg4Sxaos@hub-cloud.browserstack.com/wd/hub/",
-      "localcapabilities": {
-        "proxyHost": "127.0.0.1",
-        "proxyPort": "8000"
-      }
-
+      "url": "https://princetonbaretto_7D2Tbt:WpeGdDCXPrVJ16YUqsHW@hub-cloud.browserstack.com/wd/hub/"
     }
+
   }
 }
