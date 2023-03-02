@@ -1,23 +1,27 @@
 ﻿<Properties StartupConfiguration="{8421EB7E-7921-4EE9-B5C3-C698614AA33D}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.SpecsXUnit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Features/F1.feature.cs">
     <Files>
-      <File FileName="ParallelizeXUnitTests.cs" Line="1" Column="1" />
-      <File FileName="specflow.actions.json" Line="16" Column="10" />
-      <File FileName="README.md" Line="1" Column="1" />
-      <File FileName="Features/F1.feature.cs" Line="135" Column="55" />
+      <File FileName="ParallelizeXUnitTests.cs" Line="6" Column="1" />
+      <File FileName="specflow.actions.json" />
+      <File FileName="README.md" />
+      <File FileName="Features/F1.feature.cs" Line="21" Column="85" />
+      <File FileName="specflow.actions.osxmonterey.safari.json" />
+      <File FileName="specflow.actions.windows11.chrome.json" />
+      <File FileName="Steps/Steps.cs" Line="24" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SpecsXUnit" expanded="True">
             <Node name="SpecsXUnit" expanded="True">
-              <Node name="Features" expanded="True">
+              <Node name="Features">
                 <Node name="F1.feature.cs" selected="True" />
               </Node>
             </Node>
@@ -26,16 +30,9 @@
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="SpecsXUnit" expanded="True">
-            <Node name="SpecsXUnit" expanded="True">
-              <Node name="SpecsXUnit.Features" expanded="True">
-                <Node name="F1Feature" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="SpecsXUnit" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
